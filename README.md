@@ -1,8 +1,9 @@
-# Antwain Best
+# Antwain Best  
+### Turning Operations Experience Into Data-Driven Decisions
 
-🚀 Aspiring Data Analyst | Logistics Professional | Problem Solver  
-📍 Raleigh, North Carolina  
-🎓 Google Data Analytics Certified  
+📊 SQL | Excel | Tableau | Logistics Analytics  
+🚚 10+ Years Operations Experience  
+🎓 Google Data Analytics Certified
 
 ---
 
@@ -14,15 +15,98 @@ Now, I combine that hands-on experience with modern data skills in SQL, spreadsh
 
 ---
 
-## 🏆 Certifications & Badges
+## 🏆 Certifications & Skill Badges
 
-🏅 Google Data Analytics Professional Certificate  
-📊 Data Cleaning & Preparation  
-📈 Data Visualization  
-🗄️ SQL & Databases  
-📉 Spreadsheet Analysis  
-📌 Business Intelligence Thinking  
-📍 Problem Solving & Insights  
+### 🎓 Google Data Analytics Professional Certificate
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📊 Skill Levels (My Learning Progress)
+
+### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced → 🟣 Job-Ready
+
+### 🗄️ SQL
+🟣 Job-Ready (Experienced)
+- Joins (INNER, LEFT, RIGHT)
+- Aggregations (SUM, COUNT, AVG)
+- Filtering (WHERE, HAVING)
+- Null handling
+- Business KPI queries
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+
+---
+
+### 📊 Excel / Google Sheets
+🟣 Job-Ready (Advanced)
+- Pivot Tables
+- VLOOKUP / XLOOKUP
+- Charts & dashboards
+- Data cleaning & formatting
+- KPI tracking
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
+
+---
+
+### 📈 Tableau
+🔵 Intermediate → Job-Ready
+- Dashboards
+- Data visualization
+- Filters & parameters
+- Business storytelling
+
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange?style=for-the-badge&logo=tableau)
+
+---
+
+### 🐍 Python (Data Analysis)
+🟡 Beginner → Intermediate
+- Pandas (data cleaning)
+- Basic analysis
+- Data exploration
+- Future growth area
+
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
+
+---
+
+### 📦 Business & Operations Intelligence
+🟣 Job-Ready (Advanced)
+- Warehouse operations analysis
+- Logistics KPI tracking
+- Dispatch efficiency understanding
+- Real-world process optimization
+
+![Operations](https://img.shields.io/badge/Operations-Expert-red?style=for-the-badge)
+
+---
+
+## 📚 Learning Journey Summary
+
+✔ Started with zero formal tech background  
+✔ Learned SQL for real business problem solving  
+✔ Built reporting skills using Excel & dashboards  
+✔ Translated warehouse experience into data insights  
+✔ Completed Google Data Analytics Certificate  
+✔ Built job-ready analytical thinking  
+
+---
+
+## 🚀 Current Level
+
+**🎯 Junior Data Analyst (Job Ready Focused)**  
+Strong in real-world operations + growing technical analytics skills
+
+---
+
+## 💡 Growth Focus (Next Skills)
+
+- Python automation for data analysis  
+- Advanced Tableau storytelling dashboards  
+- Power BI (industry demand skill)  
+- Machine learning basics for forecasting
 
 ---
 
