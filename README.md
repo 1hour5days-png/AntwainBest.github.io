@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Antwain Best
+# Antwain Best
 
 🚀 Aspiring Data Analyst | Logistics Professional | Problem Solver  
 📍 Raleigh, North Carolina  
