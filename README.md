@@ -98,7 +98,7 @@ Seeking opportunities as a:
 
 ## 📬 Connect With Me
 
-📧 YourEmail@email.com  
+📧 bestlantwain@gmail.com  
 💼 LinkedIn: Your Link  
 💻 GitHub: Your Link  
 
