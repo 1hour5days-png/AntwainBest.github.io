@@ -27,7 +27,7 @@ Now, I combine that hands-on experience with modern data skills in SQL, spreadsh
 ### 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced → 🟣 Job-Ready
 
 ### 🗄️ SQL
-🟣 Job-Ready (Experienced)
+🟣 Job-Ready (Beginner)
 - Joins (INNER, LEFT, RIGHT)
 - Aggregations (SUM, COUNT, AVG)
 - Filtering (WHERE, HAVING)
@@ -39,7 +39,7 @@ Now, I combine that hands-on experience with modern data skills in SQL, spreadsh
 ---
 
 ### 📊 Excel / Google Sheets
-🟣 Job-Ready (Advanced)
+🟣 Job-Ready (Beginner)
 - Pivot Tables
 - VLOOKUP / XLOOKUP
 - Charts & dashboards
